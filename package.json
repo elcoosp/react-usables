@@ -18,5 +18,10 @@
 	"bugs": {
 		"url": "https://github.com/elcoosp/react-usables/issues"
 	},
-	"homepage": "https://github.com/elcoosp/react-usables#readme"
+	"homepage": "https://github.com/elcoosp/react-usables#readme",
+	"devDependencies": {
+		"@types/react": "^16.4.18",
+		"tslint": "^5.11.0",
+		"typescript": "^3.1.5"
+	}
 }
